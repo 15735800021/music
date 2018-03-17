@@ -157,7 +157,7 @@
         created(){
             this.getAll();
             this.getAllMusic();
-            // this.getOpen(this.AllMusic); 
+            this.getOpen(this.AllMusic); 
         }
     }
 </script>
